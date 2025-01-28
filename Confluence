@@ -10,7 +10,6 @@
 // @run-at       document-start
 // ==/UserScript==
 
-
 GM_addStyle ( `
 #inline-comment-sidebar {
     width: 85% !important;
